@@ -5,13 +5,13 @@
 
 - 🎓 I’m Following **Bachelors of Software Engineering at Open University of Sri Lanka**
 
-- 📝 I regularly write articles on [https://groupstudy.lk/](https://groupstudy.lk/)
+- 📝 I regularly write articles on [https://groupstudy.lk](https://groupstudy.lk/)
 
 - 🏅 Track my Freecodecamp [https://www.freecodecamp.org/rilwanrr](https://www.freecodecamp.org/rilwanrr)
 
 - 📫 How to reach me **rilwan.connect@gmail.com**
 
-- 👨‍💻 All of my projects are available at **https://rilwanrr.github.io/**
+- 👨‍💻 All of my projects are available at **https://rilwanrr.github.io**
 
 - 🥈 Track my Future Career Bridge profile [https://app.futurecareersbridge.net/public-profile/20965](https://app.futurecareersbridge.net/public-profile/20965)
 
