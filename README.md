@@ -31,7 +31,7 @@
 - 📄 Know about me at - **https://www.linkedin.com/in/rilwanrr**
 - 🎖️ Track my Future Career Bridge - **https://app.futurecareersbridge.net/public-profile/20965**
 - 🎖️ Track my freecodecamp  - **https://www.freecodecamp.org/rilwanrr**
-- ⚡ Fact to Know - *Share your knowledge*
+- ⚡ Fact to Know - *"Practice make the programmer perfect"*
 
 
 <h3 align="left">Connect with me:</h3>
